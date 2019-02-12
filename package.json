@@ -1,7 +1,7 @@
 {
-  "name": "react-authorize-net",
+  "name": "react-authorize-net-forked",
   "version": "0.2.1",
-  "description": "React integration for Authorize.Net",
+  "description": "React integration for Authorize.Net. Forked from github:j-em/react-authorize-net to make small tweaks. All the credits goes to original author.",
   "main": "dist/react-authorize-net.js",
   "module": "dist/react-authorize-net.js",
   "typings": "types/index.d.ts",
@@ -40,7 +40,7 @@
   "author": "Jeremy Allard <jeremy@allard.io>",
   "license": "MIT",
   "bugs": {
-    "url": "github:j-em/react-authorize-net/issues"
+    "url": "github:BogusKrzysztof/react-authorize-net-1/issues"
   },
   "homepage": "github:BogusKrzysztof/react-authorize-net-1",
   "peerDependencies": {
